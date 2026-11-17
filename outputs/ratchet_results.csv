@@ -1,0 +1,5 @@
+episode,series,year_before_peak,value_0,year_after_trough,value_1,ratchet_held,verified
+2000,internet_users_pct,1999,35.8,2004,64.8,True,no
+2007,homeownership_rate_pct,2006,68.8,2010,66.9,False,no
+2020,ecommerce_share_retail_pct,2019,11.0,2021,13.2,True,no
+2022,ecommerce_share_retail_pct,2020,14.0,2023,15.4,True,no

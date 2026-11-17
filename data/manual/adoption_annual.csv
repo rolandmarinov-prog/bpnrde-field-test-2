@@ -1,0 +1,21 @@
+episode,series,year,value,unit,source_to_check,verified
+1929,radio_households_pct,1930,40.3,% of households,"1930 Census of Population, radio question",no
+1929,radio_households_pct,1940,82.8,% of households,"1940 Census of Housing",no
+2000,internet_users_pct,1999,35.8,% of population,"World Bank WDI IT.NET.USER.ZS (ITU), United States",no
+2000,internet_users_pct,2000,43.1,% of population,"World Bank WDI IT.NET.USER.ZS (ITU), United States",no
+2000,internet_users_pct,2001,49.1,% of population,"World Bank WDI IT.NET.USER.ZS (ITU), United States",no
+2000,internet_users_pct,2002,58.8,% of population,"World Bank WDI IT.NET.USER.ZS (ITU), United States",no
+2000,internet_users_pct,2003,61.7,% of population,"World Bank WDI IT.NET.USER.ZS (ITU), United States",no
+2007,homeownership_rate_pct,2006,68.8,% of households,"Census HVS annual homeownership rate (FRED RHORUSQ156N)",no
+2007,homeownership_rate_pct,2007,68.1,% of households,"Census HVS",no
+2007,homeownership_rate_pct,2008,67.8,% of households,"Census HVS",no
+2007,homeownership_rate_pct,2009,67.4,% of households,"Census HVS",no
+2007,homeownership_rate_pct,2010,66.9,% of households,"Census HVS",no
+2020,ecommerce_share_retail_pct,2019,11.0,% of retail sales (annual avg),"Census Quarterly E-Commerce Report (FRED ECOMPCTSA), annual average",no
+2020,ecommerce_share_retail_pct,2020,14.0,% of retail sales (annual avg),"Census Quarterly E-Commerce Report",no
+2022,ecommerce_share_retail_pct,2021,13.2,% of retail sales (annual avg),"Census Quarterly E-Commerce Report",no
+2022,ecommerce_share_retail_pct,2022,14.6,% of retail sales (annual avg),"Census Quarterly E-Commerce Report",no
+2020,ecommerce_share_retail_pct,2021,13.2,% of retail sales (annual avg),"Census Quarterly E-Commerce Report",no
+2022,ecommerce_share_retail_pct,2020,14.0,% of retail sales (annual avg),"Census Quarterly E-Commerce Report",no
+2022,ecommerce_share_retail_pct,2023,15.4,% of retail sales (annual avg),"Census Quarterly E-Commerce Report",no
+2000,internet_users_pct,2004,64.8,% of population,"World Bank WDI IT.NET.USER.ZS (ITU), United States",no

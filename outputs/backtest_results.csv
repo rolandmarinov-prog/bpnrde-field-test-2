@@ -1,0 +1,6 @@
+episode,source,peak,trough,drawdown_pct,bp_rate,bp_credit,pnr,tau_months_bp_rate_to_pnr,peak_to_pnr_months,P2_inflow_before_price,pnr_persistent_v1_posthoc,unrate_rise_pp,unrate_peak,lag_trough_to_unrate_peak_m,credit_spread_max_pp,recovery_to_peak,peak_to_recovery_months
+1929,manual - data/manual - VERIFY,1929-09-01,1932-06-01,-84.8,1929-08-01,1929-09-01,1930-12-01,16.0,15.0,True,1930-12-01,21.7,1933-01-01,7,,1954-09-01,300
+2000,rule (FRED-MD 2024-09 vintage),2000-08-01,2003-02-01,-43.7,2000-07-01,2000-07-01,2001-12-01,17.0,16.0,True,2001-12-01,2.2,2003-06-01,4,1.41,2007-05-01,81
+2007,rule (FRED-MD 2024-09 vintage),2007-10-01,2009-03-01,-50.8,2007-02-01,2005-08-01,2008-01-01,11.0,3.0,True,2008-01-01,5.3,2009-10-01,7,3.38,2013-03-01,65
+2020,rule (FRED-MD 2024-09 vintage),2020-01-01,2020-03-01,-19.1,2019-04-01,2020-05-01,2020-04-01,12.0,3.0,False,not reached,11.2,2020-04-01,1,1.7,2020-08-01,7
+2022,rule (FRED-MD 2024-09 vintage),2021-12-01,2022-10-01,-20.3,2020-02-01,2020-05-01,not reached,,,True,not reached,0.4,2024-07-01,21,1.17,2023-12-01,24

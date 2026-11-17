@@ -1,0 +1,9 @@
+country,real_peak,real_trough,real_fall_pct,back_to_peak,quarters_to_recover
+United States,1979-Q4,1982-Q3,-10.1,1986-Q3,27.0
+United States,1989-Q4,1995-Q2,-12.6,2000-Q1,41.0
+United States,2006-Q1,2011-Q2,-39.0,2021-Q4,63.0
+Japan,1973-Q3,1977-Q2,-31.1,1987-Q3,56.0
+Japan,1991-Q1,2009-Q2,-48.9,not by data end (2023),
+Canada,1976-Q4,1984-Q3,-21.9,1987-Q1,41.0
+Canada,1989-Q1,1998-Q3,-21.1,2003-Q4,59.0
+Canada,2022-Q1,2023-Q1,-18.9,not by data end (2023),

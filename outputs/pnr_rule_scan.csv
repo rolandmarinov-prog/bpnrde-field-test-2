@@ -1,0 +1,14 @@
+breach_start,months_in_breach,persistent_6m,fall_next_24m_pct,fall_from_prior_12m_high_pct,bear_20pct_from_high
+1970-08,7,True,0.0,-19.0,False
+1974-11,5,False,-6.5,-34.2,True
+1975-05,2,False,-6.0,-6.0,False
+1980-04,3,False,0.0,-10.7,False
+1981-01,2,False,-17.7,-19.4,False
+1981-11,2,False,-11.0,-19.4,False
+1982-08,2,False,0.0,-15.4,False
+1998-10,6,True,0.0,-10.7,False
+2001-12,8,True,-26.9,-37.3,True
+2002-10,1,False,-2.1,-27.5,True
+2008-01,16,True,-45.1,-50.8,True
+2015-12,1,False,-7.3,-9.8,False
+2020-04,2,False,0.0,-15.7,False

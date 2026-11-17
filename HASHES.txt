@@ -1,0 +1,5 @@
+BPNRDE Field Test 2 v1.0 — registered 17 November 2026, 9:56 AM Toronto (369369369.org)
+SHA-256 of the registered files as published:
+cf83454158d839ea390250e94f493a60b5de9cb1c88a99f2cadf2e349697b850  BPNRDE-FT2-PROTOCOL-v1.0-registration-17-NOV-2026.md  (identical to PROTOCOL.md here)
+264652f5d526fb7cc194af493dbb65ac7f8de175cdb6ccb7f0eb08af167b4f51  BPNRDE-FT2-PROTOCOL-v1.0-registration-17-NOV-2026.pdf (identical to PROTOCOL.pdf here)
+261254203d138282efeb9845ee7a9f0c07905d7f26d377f783d0828610ade5fe  BPNRDE-FT2-v1.0-registration-17-NOV-2026.zip

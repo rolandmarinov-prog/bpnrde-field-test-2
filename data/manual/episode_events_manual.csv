@@ -1,0 +1,7 @@
+episode,event,date,value,source_to_check,verified
+1929,bp_rate,1929-08-01,,"FRBNY discount rate raised 5% to 6%, established 9 Aug 1929 (announced 8 Aug) - Federal Reserve Bulletin, Sep 1929, rate table and National Summary",yes
+1929,bp_credit,1929-09-01,,"Brokers' borrowings on collateral in NYC reported by the NYSE, END OF MONTH: Sep 1929 $8,549m (peak), Oct $6,109m - Federal Reserve Bulletin, Jan 1930 (table 'Brokers' borrowings on collateral in New York City reported by the New York Stock Exchange'). Largest monthly increase also Sep (+$667m). Corrected 13 Nov 2026 from Oct 1929: the widely cited 'Oct 1' figure is the end-September value.",yes
+1929,pnr,1930-12-01,,First banking panic; Bank of United States fails 11 Dec 1930 - Friedman & Schwartz,no
+1929,unrate_peak,1933-01-01,,Annual unemployment peak 1933 (annual data; month set to January by convention) - Lebergott / Historical Statistics of the US,no
+1929,unrate_rise_pp,,21.7,Unemployment 3.2% (1929) to 24.9% (1933) - Lebergott / Historical Statistics of the US Series D86,no
+japan1989,pnr,1997-11-01,,Hokkaido Takushoku Bank and Yamaichi Securities fail (Nov 1997) - BOJ / FSA records; Hoshi & Kashyap,no

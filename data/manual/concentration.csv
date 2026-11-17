@@ -1,0 +1,15 @@
+measure,date,value_pct,source_to_check,verified
+sp500_top10_share,1963,30,"Mauboussin & Callahan (Morgan Stanley), via walnutinvest.com/stats/market-concentration-statistics",no
+sp500_top10_share,1980,26,"Morgan Stanley history table, via walnutinvest.com",no
+sp500_top10_share,2000,26,"Mauboussin & Callahan (Morgan Stanley), via walnutinvest.com",no
+sp500_top10_share,2015,17.8,"Aggregated chart sources, via walnutinvest.com",no
+sp500_top10_share,2020,27,"Aggregated chart sources, via walnutinvest.com",no
+sp500_top10_share,2024,35,"Aggregated chart sources, via walnutinvest.com",no
+sp500_top10_share,2025,40.7,"Pensions & Investments, via walnutinvest.com",no
+sp500_top10_share,2026-11-05,39.1,"State Street SPY daily holdings, via walnutinvest.com",no
+sp500_top5_share,2026-11-05,29.9,"Computed from SPY holdings, via walnutinvest.com",no
+us_share_world_market_cap,1989,29.3,"World Bank CM.MKT.LCAP.CD, US / World (Eco3min calculation)",no
+us_share_world_market_cap,2007,33.0,"World Bank CM.MKT.LCAP.CD (Eco3min)",no
+us_share_world_market_cap,2024,54.0,"World Bank CM.MKT.LCAP.CD (Eco3min)",no
+japan_share_world_market_cap,1989,,"Commonly cited at 40-45%; NOT FOUND in a checkable source this session - compute from World Bank CM.MKT.LCAP.CD",no
+sp500_top10_share,1972,,"Nifty Fifty peak - NOT FOUND this session",no

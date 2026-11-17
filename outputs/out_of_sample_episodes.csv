@@ -1,0 +1,10 @@
+peak,trough,drawdown_pct,in_original_sample,note,bp_credit,P2_inflow_before_price,pnr,pnr_persistent_6m,unrate_rise_pp
+1961-12,1962-06,-22.5,False,no FRED-MD coverage: price only,,,,,
+1968-12,1970-06,-29.0,False,,1965-12,True,1970-08,1970-08,2.7
+1973-01,1974-12,-43.4,False,,1973-08,False,1974-11,not reached,4.1
+1980-11,1982-07,-19.4,False,,1978-09,True,1981-01,not reached,3.3
+1987-08,1987-12,-26.8,False,,1984-09,True,not reached,not reached,0.0
+2000-08,2003-02,-43.7,True,,2000-07,True,2001-12,2001-12,2.2
+2007-10,2009-03,-50.8,True,,2005-08,True,2008-01,2008-01,5.3
+2020-01,2020-03,-19.1,True,,2020-05,False,2020-04,not reached,11.2
+2021-12,2022-10,-20.3,True,,2020-05,True,not reached,not reached,0.4
