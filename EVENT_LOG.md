@@ -37,6 +37,8 @@
 | S-4 | 2026-11-25 | 2026-11-26 | Policy action | Section 301 tariffs proposed on 14 partners (China up to 20% on top of ~25%; EU, Japan, Korea, Taiwan, India and others), "structural overcapacity"; preliminary, no effective dates. Nasdaq fell >4% early, closed −0.6%. | — | Al Jazeera, NBC, 25 Nov · reporting |
 | S-5 | 2026-11-25 | 2026-11-26 | Infrastructure outage | Microsoft declares "Code Red" after a large Outlook / Microsoft 365 outage | — | The Verge, 25 Nov · reporting |
 | S-6 | 2026-11-26 | 2026-11-26 | Policy action + supply | US closes a loophole giving Chinese firms access to Nvidia chips; Nvidia reported to halt server shipments to Southeast Asia | — | WSJ, Barron's headlines, 26 Nov · reporting (headlines only, not read) |
+| S-4a | 2026-11-25 | 2026-11-27 | Policy action (follow-up to S-4) | The Section 301 tariffs "could go into effect in January" — S-4's "no effective dates" is superseded | — | WSJ (G. Bade), 25 Nov · reporting |
+| S-7 | 2026-11-27 | 2026-11-27 | Policy action (regulatory) | Monero (XMR) −11.1% intraday after KuCoin delists it ahead of the EU anti-money-laundering rules on privacy coins (second delisting in a row); Zcash (ZEC) +3.5% the same session | — | WSJ crypto screen (PI, 27 Nov); CoinDesk, FinScans, TokenPost 27 Nov · reporting |
 
 ## E. Context entries — not scored
 
@@ -50,6 +52,13 @@
 | E-6 | 2026-11-25 | 2026-11-26 | Closes: Dow 50,182.95 (+0.33%), S&P 7,182.78 (−0.25%), Nasdaq 23,585.80 (−0.62%); Q3 GDP revised sharply higher; Oct PCE 3.8% | WSJ market table (PI); WSJ, Al Jazeera · reporting |
 | E-7 | 2026-11-19 | 2026-11-26 | First Xi–Trump–Putin trilateral summit, Shenzhen (APEC) | SCMP · reporting |
 | E-8 | 2026-11-26 | 2026-11-26 | Chair 2 tests (descriptive, not scored, not forecasts): credit-run signal 2 hits of 5 vs 12% base rate, no reliable lead; cash legs, no reliable lead; eve comparison with 2000/2007/2020/2021/2025: broad credit calm, VIX high, Fed reverse repo $0.3bn | [CAM]; FRED · primary data |
+| E-9 | 2026-11-25 | 2026-11-27 | "The AI-driven market rout shows how much higher the bar has risen for the central bank to step in" — the Fed is not signalling a backstop | WSJ (N. Timiraos), 25 Nov · reporting |
+| E-10 | 2026-11-24 | 2026-11-27 | China to suspend some critical-material export curbs to the US until January — January deadlines now on both sides (see S-4a) | WSJ headline, 24 Nov · reporting (headline only, not read) |
+| E-11 | Q3 2026 (reported 2026-11-27) | 2026-11-27 | France in recession in Q3 as exports sag (heat waves slowed Airbus) | WSJ (M. Dalton), 27 Nov · reporting, check vs INSEE |
+| E-12 | 2026-11-27, 11:29 Toronto (half-day session) | 2026-11-27 | Intraday vs Wed close: Dow 50,674.69 (+0.98%), S&P 500 7,267.81 (+1.18%), Nasdaq 23,967.53 (+1.62%). Week to date vs 20 Nov close (E-3): Dow +5.2%, S&P +5.2%, Nasdaq +6.0% — about 55% of the 13–20 Nov fall recovered. Intraday, not a close | WSJ market screen (PI); raw in SNAPSHOTS.csv row-date 2026-11-27 · reporting |
+| E-13 | 2026-11-27, intraday | 2026-11-27 | Treasuries: bear steepener — 2y +4 bp (4.693%), 10y +6 bp (4.926%), 30y +7 bp (5.322%). Bills rise with maturity (1m 4.175% → 1y 4.592%): no cut priced. Price-change column inconsistent with yields; yields used | WSJ bonds screen (PI) · reporting |
+| E-14 | 2026-11-27, intraday | 2026-11-27 | Metals bid, energy down: silver +8.8%, gold +3.2% (3,648.40), copper +3.0%; Brent −1.3%, natural gas −4.2%; Bitcoin −1.2%. [CAM] reading: reflation or pre-tariff buying, not a flight to safety. Half-day thin volume — confirm at Monday's close | WSJ commodities and crypto screens (PI) · reporting; reading [CAM] |
+| E-15 | 2026-11-27, intraday | 2026-11-27 | FX: no safe-haven bid (USD/CHF +0.22%, USD/JPY +0.17% to 159.54, near 160); DXY +0.35% led by EUR −0.26%, broad WSJ Dollar Index +0.09%; yuan firmer (USD/CNY 6.6594) despite the tariff plan; USD/CAD flat 1.4249 | WSJ currencies screen (PI) · reporting |
 
 ## F. Known future events (§6.4)
 
